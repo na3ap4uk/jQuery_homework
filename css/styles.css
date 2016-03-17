@@ -1,0 +1,31 @@
+body {
+    font-family: OpenSans, sans-serif;
+    padding: 20px;
+}
+
+.setValueFields {
+    width: 500px;
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.timerSection {
+    width: 500px;
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.timer {
+    display: inline-block;
+    font-size: 30px;
+    font-family: Tahoma;
+    padding: 10 10 10 10;
+    letter-spacing: 2px;
+}
+
+.timer span {
+    background-color: black;
+    color: white;
+}
