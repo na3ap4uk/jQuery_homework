@@ -22,7 +22,6 @@ var counter;
                    }
                    if (day === -1) {
                        clearInterval(counter);
-                       $('.timer').html('FINAL !!!');
                    }
                }
            }
